@@ -1,1 +1,3 @@
-print("hello world") 
+print("hello world")
+car=44
+print(car)
