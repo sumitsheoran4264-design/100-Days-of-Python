@@ -1,3 +1,3 @@
 print("hello world")
-car=44
+car="bmw"
 print(car)
