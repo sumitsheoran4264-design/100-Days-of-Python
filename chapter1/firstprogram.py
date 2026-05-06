@@ -1,6 +1,3 @@
-print("hello world")
-car="bmw"
-print(car)
-a=44
-b=448484848
-print(a+b)
+print("hello world" "\nwelcome to python programming")
+print("hyyy bro how are you\nwelcome to python programming")
+print("Hello"+" "+"Sumit")
