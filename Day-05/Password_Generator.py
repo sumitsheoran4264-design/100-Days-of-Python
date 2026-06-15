@@ -20,7 +20,7 @@ for charcter in range(0,nr_number):
 for charcter in range(0,nr_symbols):
     password += random.choice(symbols)
 
-print(password)
+print(f"Your password is", password)
 
 
 

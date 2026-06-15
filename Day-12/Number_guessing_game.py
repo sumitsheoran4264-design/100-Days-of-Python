@@ -28,8 +28,6 @@ def game():
     print("Welcome to the number guessing game!")
     print("I am thinking of a number between 1 to 100.")
     answer = random.randint(1, 100)
-    print(answer)
-
 
 
     turns = set_difficulty() # if user choice easy turn = 10, otherwise turn = 5
