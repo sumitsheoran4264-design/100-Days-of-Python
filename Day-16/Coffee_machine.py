@@ -1,3 +1,4 @@
+# coffee machine
 from coffeemaker_data import CoffeeMaker, Menu, MenuItem, MoneyMachine
 money_machine = MoneyMachine()
 coffee_Maker = CoffeeMaker()
