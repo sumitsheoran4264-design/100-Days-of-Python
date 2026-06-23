@@ -7,7 +7,7 @@ print("Sumit"[0:5])  # Output: 'Sumit'
 
 
 
-#string concatenation 
+#string concatenation |
 
 #Integer Whole Number
 print(123+123) # Output: 246
