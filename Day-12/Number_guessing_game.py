@@ -1,5 +1,5 @@
 import random
-#step 01 - a fuction for check answer 
+# a fuction for check answer 
 def check_answer(user_guess, Actual_answer):
         """Check answer against guess"""
         if user_guess > Actual_answer:
