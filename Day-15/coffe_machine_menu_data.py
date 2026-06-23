@@ -1,3 +1,4 @@
+#menu
 menu = {
     "espresso": {
         "ingredients": {
