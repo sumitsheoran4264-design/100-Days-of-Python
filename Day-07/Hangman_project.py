@@ -1,4 +1,6 @@
 import random
+#Hangman project
+
 print("Welcome to Hangman game!")
 character= ["sumit", "amit", "hangman"]
 random_word = random.choice(character)
