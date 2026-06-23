@@ -1,4 +1,4 @@
-#dictionaries and Auction program 
+#Auction program 
 
 logo = '''
 ⠀⠀⠀⠀⠀⠀⢠⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
