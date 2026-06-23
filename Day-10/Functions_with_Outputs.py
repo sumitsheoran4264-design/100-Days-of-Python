@@ -1,3 +1,4 @@
+#function with input 
 def format_name(f_name, l_name):
     full_name = f"{f_name} {l_name} ".title()
     return full_name
