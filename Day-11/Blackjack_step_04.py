@@ -1,6 +1,6 @@
 import random
 
-#step-1 create a function for return rondom card from the list of cards.
+#step-1 create a function for return rondom card from the list of cards
 def deal_card():
     """Return a random card from the deck"""
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
