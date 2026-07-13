@@ -18,7 +18,7 @@ with open("/Users/Sumit/OneDrive/Desktop/Mail+Merge+Project+Start/Mail Merge Pro
         #step 3
         with open(f"/Users/Sumit/OneDrive/Desktop/Mail+Merge+Project+Start/Mail Merge Project Start/output/ReadyToSend/letter_for_{stripped_name}.txt",mode= "w") as completed_letter:
             completed_letter.write(new_letter)
-()
+
 
 
     

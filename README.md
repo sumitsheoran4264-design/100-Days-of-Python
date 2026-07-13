@@ -1,21 +1,21 @@
-# 🚀 100 Days of Code - Python Challenge 🚀
+# 🚀 100 Days of Code - Python Challenge
 
-I am currently taking Dr. Angela Yu's "100 Days of Python" course. This repository documents my daily progress, projects, and learning journey.
+Learning Python through Dr. Angela Yu's **100 Days of Python** course.
 
-## Current Progress 🎯
-*Current Day:* Day 21 (Snake Game - OOP, Inheritance & Collision Detection)
-*Next Goal:* Day 22 (Snake Game Improvements & Score Persistence)
+## 🎯 Current Progress
+**Current Day:** Day 24 (Files, Directories & Paths)  
+**Next Goal:** Day 25 (CSV & Pandas)
 
-## Skills Learned 💻
-- Python Basics (Variables, Loops, Functions)
-- Lists, Dictionaries, Tuples & Sets
-- Turtle Graphics & GUI
-- Functions & Higher-Order Functions
-- Object-Oriented Programming (Classes & Objects)
-- Instance, State & Methods
-- Keyboard Event Handling
-- Building a Snake Game
-- Object Composition
-- Inheritance
-- Collision Detection
-- Modular Programming (Multiple Python Files)
+## 💻 Skills Learned
+- Python Basics
+- Functions
+- OOP
+- Turtle Graphics
+- Snake Game
+- Inheritance & Composition
+- Modular Programming
+- File Handling
+- File Paths (`with open()`)
+
+## 📅 Progress
+✅ Day 1 – Day 24 Completed
