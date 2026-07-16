@@ -1,6 +1,5 @@
 import turtle
 import pandas
-
 #All states data
 states_data = pandas.read_csv("Day-25/us_state_guessing/50_states.csv")
 all_states = states_data["state"]

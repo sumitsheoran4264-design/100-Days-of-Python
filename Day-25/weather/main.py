@@ -14,6 +14,7 @@
 
 #     print(temperature)
 
+
 import pandas
 data = pandas.read_csv("Day-25/weather/weather_data.csv")
 data_t = data['temp']
