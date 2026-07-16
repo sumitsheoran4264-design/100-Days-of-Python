@@ -3,8 +3,8 @@
 Learning Python through Dr. Angela Yu's **100 Days of Python** course.
 
 ## 🎯 Current Progress
-**Current Day:** Day 24 (Files, Directories & Paths)  
-**Next Goal:** Day 25 (CSV & Pandas)
+**Current Day:** Day 25 (Working with CSV & Pandas)  
+**Next Goal:** Day 26 (NATO Alphabet Project)
 
 ## 💻 Skills Learned
 - Python Basics
@@ -12,10 +12,10 @@ Learning Python through Dr. Angela Yu's **100 Days of Python** course.
 - OOP
 - Turtle Graphics
 - Snake Game
-- Inheritance & Composition
-- Modular Programming
 - File Handling
-- File Paths (`with open()`)
+- Pandas Basics
+- Reading CSV Files
+- DataFrames & Series
 
 ## 📅 Progress
-✅ Day 1 – Day 24 Completed
+✅ Day 1 – Day 25 Completed
