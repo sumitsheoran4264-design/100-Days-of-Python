@@ -26,7 +26,7 @@ writer.hideturtle()
 
 
 guessed_states = []
-missing_state = []
+
 screen.title("U.S States Game")
 
 
@@ -38,13 +38,10 @@ while len(guessed_states) < 50:
     
     if answer_state == "Exit":
         #After user type Exit save remaining state in csv 
-        for state in all_states:
-            if state not in guessed_states:
-                missing_state.append(state)
+        missing_state = [state for state in states_list if state not in guessed_states]
         df = pandas.DataFrame(missing_state, columns= ["state"])
         df.to_csv("Day-25/us_state_guessing/remaining_state.csv",index=False)
-        
-
+        break
 
     elif answer_state in states_list and not answer_state in guessed_states:
         state_row = states_data[states_data["state"] == answer_state]
@@ -55,18 +52,6 @@ while len(guessed_states) < 50:
         # if answer_state in state_list store answer in guessed_states
         guessed_states.append(answer_state)
         
-
-    
-
-    
-        
-        
-    
-    
-    
-
-    
-
 
 
 screen.exitonclick()
