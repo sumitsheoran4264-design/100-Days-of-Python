@@ -43,7 +43,7 @@ while len(guessed_states) < 50:
                 missing_state.append(state)
         df = pandas.DataFrame(missing_state, columns= ["state"])
         df.to_csv("Day-25/us_state_guessing/remaining_state.csv",index=False)
-        break
+        
 
 
     elif answer_state in states_list and not answer_state in guessed_states:
