@@ -1,12 +1,9 @@
-with open("Day-26/file1.txt") as file1:
-    file_one = file1.readlines()
-    striped_file1 = [int(num.strip()) for num in file_one]
-with open("Day-26/file2.txt") as file2:
-    file_two = file2.readlines()
-    striped_file2 = [int(num.strip()) for num in file_two]
+import pandas
+data = pandas.read_csv("Day-26/nato_phonetic_alphabet.csv")
 
+phonetic_alpha_dict = {row.letter:row.code for index, row in data.iterrows()}
+print(phonetic_alpha_dict)
 
-
-result = [n for n in striped_file1  if n in striped_file2]
-
-print(result)
+user_word = input("Enter a word: ").upper()
+word_letters = [phonetic_alpha_dict[letter] for letter in user_word]
+print(word_letters)
