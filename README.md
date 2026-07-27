@@ -1,21 +1,29 @@
 # 🚀 100 Days of Code - Python Challenge
 
-Learning Python through Dr. Angela Yu's **100 Days of Python** course.
+Learning Python through Dr. Angela Yu's **100 Days of Code** course.
 
-## 🎯 Current Progress
-**Current Day:** Day 25 (Working with CSV & Pandas)  
-**Next Goal:** Day 26 (NATO Alphabet Project)
+## 📈 Progress
 
-## 💻 Skills Learned
+- ✅ **Current Day:** 32
+- 🎯 **Next Goal:** Day 33
+- 📊 **Completed:** 31/100 Days (30%)
+
+## 📚 Skills Learned
+
 - Python Basics
 - Functions
 - OOP
 - Turtle Graphics
-- Snake Game
 - File Handling
-- Pandas Basics
-- Reading CSV Files
-- DataFrames & Series
+- CSV & Pandas
+- List Comprehensions
+- Dictionary Comprehensions
+- Error Handling
+- Tkinter Basics
 
-## 📅 Progress
-✅ Day 1 – Day 25 Completed
+## ✅ Progress
+
+- ✔️ Day 1 – Day 31 Completed
+
+---
+⭐ Consistency over perfection. One day at a time.
