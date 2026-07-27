@@ -67,5 +67,6 @@ known_button = Button(image=right_tick_image, highlightthickness=0, command=next
 known_button.grid(row=1, column=1)
 
 
+
 next_card()
 window.mainloop() 
