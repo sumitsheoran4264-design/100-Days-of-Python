@@ -2,6 +2,9 @@ from tkinter import *
 from quiz_brain import QuizBrain
 THEME_COLOR = "#375362"
 
+
+
+#Graphical user interface 
 class QuizInterFace:
 
     def __init__(self, quiz_brain:QuizBrain):
