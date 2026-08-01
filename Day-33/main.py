@@ -1,6 +1,7 @@
 from tkinter import *
 import requests
 
+
 def get_quote():
     response = requests.get("https://api.kanye.rest")
     data = response.json()["quote"]
@@ -23,4 +24,4 @@ kanye_button.grid(row=1, column=0)
 
 
 
-window.mainloop() 
+window.mainloop()
