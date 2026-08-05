@@ -69,4 +69,5 @@ update_config = {
 delete_pixel_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{ID}/{DATE}"
 
 response = requests.delete(url=delete_pixel_endpoint,headers=headers)
+
 print(response.text)
