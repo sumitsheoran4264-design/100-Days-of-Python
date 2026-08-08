@@ -1,0 +1,15 @@
+{
+    "destinations": [],
+    "users": [
+        {
+            "name": "sumit",
+            "contact": "343232",
+            "email": "sennrer"
+        },
+        {
+            "name": "ankit",
+            "contact": "888888888888",
+            "email": "ankitnarwalgmail.com"
+        }
+    ]
+}
