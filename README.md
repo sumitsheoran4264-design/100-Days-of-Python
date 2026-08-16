@@ -4,9 +4,9 @@ Learning Python through Dr. Angela Yu's **100 Days of Code** course.
 
 ## 📈 Progress
 
-- ✅ **Current Day:** 32
-- 🎯 **Next Goal:** Day 33
-- 📊 **Completed:** 31/100 Days (30%)
+- ✅ **Current Day:** 46
+- 🎯 **Next Goal:** Day 47
+- 📊 **Completed:** 46/100 Days (46%)
 
 ## 📚 Skills Learned
 
@@ -16,14 +16,17 @@ Learning Python through Dr. Angela Yu's **100 Days of Code** course.
 - Turtle Graphics
 - File Handling
 - CSV & Pandas
-- List Comprehensions
-- Dictionary Comprehensions
+- List & Dictionary Comprehensions
 - Error Handling
-- Tkinter Basics
+- Tkinter
+- APIs
+- Web Scraping
+- BeautifulSoup
 
 ## ✅ Progress
 
-- ✔️ Day 1 – Day 31 Completed
+- ✔️ Day 1 – Day 46 Completed
 
 ---
-⭐ Consistency over perfection. One day at a time.
+
+⭐ Consistency over perfection. One day at a time. 
